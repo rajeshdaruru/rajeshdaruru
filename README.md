@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rajesh
 
-Software Engineer with 15+ years building cloud infrastructure, DevOps automation, and IAM/security systems at scale — now focusing on LLM-based agentic architectures and ML infrastructure.
+Software Engineer with 15+ years building cloud infrastructure, DevOps automation, Full-Stack Web Development and IAM/security systems at scale — now focusing on LLM-based agentic architectures and ML infrastructure.
 
 ## Core Expertise
 
