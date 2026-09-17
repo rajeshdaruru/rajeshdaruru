@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rajesh
 
-Software Engineer with 15+ years building cloud infrastructure, DevOps automation, and IAM/security systems at scale — now also working LLM-based agentic architectures.
+Software Engineer with 15+ years building cloud infrastructure, DevOps automation, and IAM/security systems at scale — now focusing on LLM-based agentic architectures and ML infrastructure.
 
 ## Core Expertise
 
@@ -17,7 +17,10 @@ LangGraph · Langfuse · Qdrant · Agentic workflow design · LLM observability 
 Python · C# / ASP.NET MVC · JavaScript (React, Angular) · Boto3 · REST APIs
 
 **DevOps & Delivery**
-Jenkins · GitOps · CI/CD · Migration tooling (AWS MGN, CMF, myNav) · Splunk / New Relic
+Jenkins · GitOps · CI/CD · Migration tooling (AWS MGN, CMF, myNav).
+
+**Monitoring Tools**
+Splunk . New Relic . CloudTrail . CloudWatch
 
 
 <!--
