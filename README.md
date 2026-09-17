@@ -8,7 +8,7 @@ Software Engineer with 15+ years building cloud infrastructure, DevOps automatio
 AWS (EC2, VPC, Lambda, EKS/ECS, S3, DynamoDB, RDS, API Gateway, Redshift, Glue, Athena, EMR, Bedrock etc) · Terraform / Terragrunt · Kubernetes · Aviatrix Multicloud Networking · CloudFormation / CDK
 
 **Security & IAM**
-Cross-account & SAML roles · Least-privilege policy design · SCPs & Permission Boundaries · Checkov · CSPM / DevSecOps · Wiz · Prisma · CloudTrail / CloudWatch
+Cross-account & SAML roles · Least-privilege policy design · SCPs & Permission Boundaries · Checkov · CSPM / DevSecOps · Wiz · Prisma ·
 
 **LLM / Agentic Systems**
 LangGraph · Langfuse · Qdrant · Agentic workflow design · LLM observability · Vector-based retrieval · System design for LLM applications
